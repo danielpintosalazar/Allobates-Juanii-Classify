@@ -1,0 +1,21 @@
+Selection,View,Channel,Begin Time (s),End Time (s),Low Freq (Hz),High Freq (Hz),Record Name
+1,Spectrogram 1,1,0,3,0,96000,test.bellavista_p1.allobates_juanii.01.wav
+2,Spectrogram 1,1,3,6,0,96000,test.bellavista_p1.allobates_juanii.02.wav
+3,Spectrogram 1,1,6,9,0,96000,test.bellavista_p1.allobates_juanii.03.wav
+4,Spectrogram 1,1,9,12,0,96000,test.bellavista_p1.allobates_juanii.04.wav
+5,Spectrogram 1,1,12,15,0,96000,test.bellavista_p1.allobates_juanii.05.wav
+6,Spectrogram 1,1,15,18,0,96000,test.bellavista_p1.allobates_juanii.06.wav
+7,Spectrogram 1,1,18,21,0,96000,test.bellavista_p1.allobates_juanii.07.wav
+8,Spectrogram 1,1,21,24,0,96000,test.bellavista_p1.allobates_juanii.08.wav
+9,Spectrogram 1,1,24,27,0,96000,test.bellavista_p1.allobates_juanii.09.wav
+10,Spectrogram 1,1,27,30,0,96000,test.bellavista_p1.allobates_juanii.10.wav
+11,Spectrogram 1,1,30,33,0,96000,test.bellavista_p1.allobates_juanii.11.wav
+12,Spectrogram 1,1,33,36,0,96000,test.bellavista_p1.allobates_juanii.12.wav
+13,Spectrogram 1,1,36,39,0,96000,test.bellavista_p1.allobates_juanii.13.wav
+14,Spectrogram 1,1,39,42,0,96000,test.bellavista_p1.allobates_juanii.14.wav
+15,Spectrogram 1,1,42,45,0,96000,test.bellavista_p1.allobates_juanii.15.wav
+16,Spectrogram 1,1,45,48,0,96000,test.bellavista_p1.allobates_juanii.16.wav
+17,Spectrogram 1,1,48,51,0,96000,test.bellavista_p1.allobates_juanii.17.wav
+18,Spectrogram 1,1,51,54,0,96000,test.bellavista_p1.allobates_juanii.18.wav
+19,Spectrogram 1,1,54,57,0,96000,test.bellavista_p1.allobates_juanii.19.wav
+20,Spectrogram 1,1,57,60,0,96000,test.bellavista_p1.allobates_juanii.20.wav
